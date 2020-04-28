@@ -134,7 +134,7 @@ module.exports = {
     prevLinks: true,
     activeHeaderLinks: true,
     repo: "iChizer0/orpsc-site",
-    editLinks: true,
+    editLinks: false,
   },
 
   markdown: {
